@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rui L.
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning SQL,Python,Tableau.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently mastering SQL,Python,Tableau.
 - 💞️ I’m looking to collaborate on data science and big data study. 
 - 📫 To reach me : rui6@ualberta.ca
 

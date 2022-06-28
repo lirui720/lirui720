@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rui L.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently mastering SQL,Python,Tableau.
+- 👀 I’m currently working as a data analyst for Branchy Solution.
+- 🌱 I am experienced with SQL, Python, Tableau and variety of tools and platform.
 - 💞️ I’m looking to collaborate on data science and big data study. 
 - 📫 To reach me : rui6@ualberta.ca
 

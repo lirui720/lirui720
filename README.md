@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rui L.
-- 👀 I’m currently working as a data analyst for Manulife Financial
+- 👀 I’m currently working as a lead data analyst for Manulife Financial
 - 🌱 I am experienced with SQL, Python, Tableau and variety of tools and platforms.
 - 💞️ I’m looking to collaborate on data science and big data study. 
 - 📫 To reach me : rui6@ualberta.ca

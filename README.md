@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rui and I'm a lead data analyst for Manulife Financial</h2>
+<h2 align="left">Hi 👋! My name is Rui and I'm a lead data analyst for Manulife Investment Management </h2>
 
 ###
 

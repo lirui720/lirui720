@@ -67,9 +67,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lirui720/lirui720/output/snake.svg" alt="Snake animation" />
 
 ###
 
